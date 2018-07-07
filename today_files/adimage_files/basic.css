@@ -1,0 +1,69 @@
+* {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+DL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+HTML {
+	HEIGHT: 100%; -webkit-text-size-adjust: none
+}
+BODY {
+	HEIGHT: 100%; -webkit-text-size-adjust: none
+}
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+.style3 {
+	FONT-SIZE: 14px
+}
+.style4 {
+	FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.style5 {
+	FONT-WEIGHT: bold; COLOR: #006633
+}
+.bullet {
+	OVERFLOW: hidden; FONT-SIZE: 15px; POSITION: absolute; COLOR: #231f20; TEXT-ALIGN: left; PADDING-LEFT: 0px; MARGIN-LEFT: 0px; LEFT: -6px; TOP: 4px
+}
+.ja_p {
+	OVERFLOW: hidden; FONT-SIZE: 15px; HEIGHT: 30px; FONT-FAMILY: 'Malgun Gothic', '¸¼Àº °íµñ', Dotm, 'µ¸¿ò', sans-serif; POSITION: absolute; COLOR: #231f20; TEXT-ALIGN: left; LEFT: 10px; LETTER-SPACING: -1px; LINE-HEIGHT: 30px; TOP: 0px
+}
+.nmt_c {
+	OVERFLOW: hidden; CURSOR: pointer; FONT-SIZE: 17px; TEXT-DECORATION: none; HEIGHT: 30px; FONT-FAMILY: 'NanumGothic'; BACKGROUND: url(http://img.adinc.co.kr/mydailydot2.jpg) no-repeat 0px 30%; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis; COLOR: #222222; PADDING-LEFT: 7px; MARGIN-LEFT: 0px; DISPLAY: block; LINE-HEIGHT: 17px
+}
+UNKNOWN {
+	POSITION: absolute
+}
+UNKNOWN {
+	OVERFLOW: hidden; WHITE-SPACE: nowrap
+}
+UNKNOWN {
+	OVERFLOW: hidden; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis
+}
+#opimg_3810 {
+	POSITION: absolute; TOP: 11px
+}
+#opdiv_3810 {
+	OVERFLOW: hidden; WHITE-SPACE: nowrap; LINE-HEIGHT: 27px
+}
+#opspan_3810 {
+	OVERFLOW: hidden; FONT-SIZE: 17px; FONT-FAMILY: µ¸¿ò; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis; COLOR: #333; PADDING-LEFT: 10px; LETTER-SPACING: 0px
+}
